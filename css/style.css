@@ -40,4 +40,10 @@ body {
     height: auto;
   }
   
+  header {
+    background: linear-gradient(to right, #0055aa, #00aaff);
+    color: white;
+    padding: 20px;
+  }
+  
   
