@@ -45,5 +45,10 @@ body {
     color: white;
     padding: 20px;
   }
+
+  main {
+    min-height: 400px;
+  }
+  
   
   
