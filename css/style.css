@@ -66,6 +66,16 @@ body {
   p {
     padding: 10px 0;
   }
+
+  @media (max-width: 600px) {
+    body {
+      font-size: 14px;
+    }
+    header, footer {
+      padding: 10px;
+    }
+  }
+  
   
   
   
