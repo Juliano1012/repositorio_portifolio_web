@@ -21,3 +21,7 @@ body {
     max-width: 800px;
   }
   
+  section {
+    margin-bottom: 40px;
+  }
+  
