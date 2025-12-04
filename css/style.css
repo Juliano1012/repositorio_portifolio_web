@@ -49,6 +49,13 @@ body {
   main {
     min-height: 400px;
   }
+
+  .card {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 20px;
+    background-color: white;
+  }
+  
   
   
   
