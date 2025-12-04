@@ -11,3 +11,8 @@ body {
     text-transform: uppercase;
   }
   
+  img {
+    border: 2px solid #ccc;
+    border-radius: 8px;
+  }
+  
