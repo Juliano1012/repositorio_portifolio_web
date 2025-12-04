@@ -16,3 +16,8 @@ body {
     border-radius: 8px;
   }
   
+  main, section {
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  
