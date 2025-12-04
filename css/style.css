@@ -25,3 +25,8 @@ body {
     margin-bottom: 40px;
   }
   
+  a {
+    color: #0055aa;
+    text-decoration: none;
+  }
+  
